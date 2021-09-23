@@ -1,7 +1,7 @@
-### 👋 Hi, my name is Saul Caravaca and I am a computer science professional!
+### 👋 Hi, my name is Saul Caravaca I'm a Cloud Solutions Architect working at Microsoft and Masters Student at Georgia Tech!
 
-- ⚡ I’m currently working at **Microsoft** as a Technical Advisor, helping engineers to better understand the Azure Services that we support!
-- 📕 I'm also a volunteer Cloud Professor for NPOs and Microsoft's ERG. 
+- ⚡ I'm responsible for understanding technical needs of our customers and providing them the best solution that Azure has.
+- 📕 I love teaching, I'm also a volunteer Cloud Professor for NPOs and Microsoft's ERG. 
 - 🌱 I’m passionate for **Architecting Cloud Solutions**, **Infrastructure as Code**, **Teaching** and **Driving up Cloud Adoption**
 - 🥅 2021 Goal: Be more active on Github and continue teaching and sharing knowledge!
 - 💬 You can ask me about **Azure BCDR Solutions, Azure DevOps and Migrating workloads to Azure**
