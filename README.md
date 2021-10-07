@@ -5,7 +5,7 @@
 - 🌱 I’m passionate for **Architecting Cloud Solutions**, **Infrastructure as Code**, **Teaching** and **Driving up Cloud Adoption**
 - 🥅 2021 Goal: Be more active on Github and continue teaching and sharing knowledge!
 - 💬 You can ask me about **Azure BCDR Solutions, Azure DevOps and Migrating workloads to Azure**
-- 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/saulcaravacapicado/)
+- 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/scaravacap/)
 
 ### Additional Information
 -  Here is my [Live Resume](work in progress) 💡 it is a living document hosted on Azure and created using Azure Functions and Cosmos DB.
