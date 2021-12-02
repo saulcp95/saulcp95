@@ -3,8 +3,8 @@
 - ⚡ I'm responsible for understanding technical needs of our customers and providing them the best solution that Azure has.
 - 🌱 I love teaching, I'm a freelance professor of DevOps courses.
 - 🎓 I'm getting an Online Master's Degree in Data Analytics at Georgia Tech.
-- ❤️ I’m passionate for **Architecting Cloud Solutions**, **Giving Cloud Computing talks (Cloud Evangelism)** and **Teaching cool topics** 😄
-- 🥅 2021 Goal: Be more active on Github and continue teaching and sharing knowledge!
+- ❤️ I’m passionate for **Architecting Cloud Solutions**, **Cloud Evangelism** and **Teaching cool topics** 😄
+- 🥅 2022 Goal: Be more active on Github and continue teaching and sharing knowledge!
 - 💬 You can ask me about **Azure BCDR Solutions, Azure DevOps and Migrating workloads to Azure**
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/scaravacap/)
 
