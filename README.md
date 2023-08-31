@@ -1,7 +1,7 @@
-### 👋 Hi, my name is Saul Caravaca I'm a Cloud Solutions Architect working at Microsoft.
+### 👋 Hi, my name is Saul Caravaca, I'm a Technical Specialist working at Microsoft focused on the Application Innovation and AI Portfolio.
 
 - ⚡ I'm responsible for understanding technical needs of our customers and providing them the best solution that Azure has.
-- 🌱 I love teaching, I'm a freelance professor of DevOps courses.
+- 🌱 I love teaching, I'm a freelance professor of DevOps and Cloud Computing courses.
 - 🎓 I'm getting an Online Master's Degree in Data Analytics at Georgia Tech.
 - ❤️ I’m passionate for **Architecting Cloud Solutions**, **Cloud Evangelism** and **Teaching cool topics** 😄
 - 🥅 2023 Goal: Be more active on Github and continue teaching and sharing knowledge!
