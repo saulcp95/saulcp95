@@ -1,13 +1,12 @@
-### 👋 Hi, my name is Saul Caravaca, I'm a Technical Specialist working at Microsoft focused on the Application Innovation and AI Portfolio.
+### 👋 Hi, my name is Saul Caravaca, I'm a Senior Solutions Engineer working at Databricks.
 
-- ⚡ I'm responsible for understanding technical needs of our customers and providing them the best solution that Azure has.
-- 🌱 I love teaching, I'm a freelance professor of DevOps and Cloud Computing courses.
+- ⚡ I'm responsible for understanding technical needs of our customers and showing them how can the Databricks Data Intelligent Platform adds value to their business.
+- 🌱 I love teaching, I'm a freelance professor at a Costa Rican Private University.
 - 🎓 I'm getting an Online Master's Degree in Data Analytics at Georgia Tech.
-- ❤️ I’m passionate for **Architecting Cloud Solutions**, **Cloud Evangelism** and **Teaching cool topics** 😄
-- 🥅 2023 Goal: Be more active on Github and continue teaching and sharing knowledge!
-- 💬 You can ask me about **Azure BCDR Solutions, Azure DevOps and Migrating workloads to Azure**
+- ❤️ I’m passionate for **Data Analytics**, **Artifitial Intelligence** and **Teaching cool topics** 😄
+- 🥅 2024 Goal: Be more active on Github and continue teaching and sharing knowledge!
+- 💬 You can ask me about **Microsoft Azure, Databricks and AI**
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/scaravacap/)
 
 ### Additional Information
--  Here is my [Live Resume](work in progress) 💡 it is a living document hosted on Azure and created using Azure Functions and Cosmos DB.
--  As a professor I'm planning to start my own Cloud Comptuting Teaching blog is a work in progress where I will share what I've learned 📚: [Learn Cloud Computing](work in progress)
+-  I'm planning to start my blog to keep sharing about the topics above 📚: [Link To Blog Comming Soon]
